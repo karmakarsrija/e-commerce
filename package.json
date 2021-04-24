@@ -1,0 +1,22 @@
+{
+  "name": "shopify-project",
+  "version": "1.0.0",
+  "description": "Server to retreive Shopping Cart Details from Client and save corresponding data into database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IT LAB",
+    "final year project",
+    "Ee Kian Wong",
+    "Shopping",
+    "Srija Karmakar"
+  ],
+  "author": "Sujoy Seal , Srija Karmakar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
